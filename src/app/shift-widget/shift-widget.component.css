@@ -1,0 +1,50 @@
+.room-label {
+    text-align: center;
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+    margin: 0px;
+}
+
+.room-shift {
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin: 0px;
+}
+
+.room-desc {
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 3rem;
+    margin: 0px;
+}
+
+.shift-A {
+    background-color: rgb(245, 107, 107);
+    border: 1px solid rgb(155, 54, 54);
+    border-radius: 5px;
+}
+
+.shift-B {
+    background-color: rgb(104, 104, 241);
+    border: 1px solid rgb(77, 33, 179);
+    border-radius: 5px;
+}
+
+.shift-C {
+    background-color: rgb(252, 252, 40);
+    border: 1px solid rgb(124, 133, 1);
+    border-radius: 5px;
+}
+
+.shift-D {
+    background-color: rgb(94, 184, 94);
+    border: 1px solid rgb(6, 97, 28);
+    border-radius: 5px;
+}
+
+.shift-CLOSED {
+    background-color: rgba(182, 178, 178, 0.884);
+    border: 1px solid rgb(65, 63, 63);
+    border-radius: 5px;
+}

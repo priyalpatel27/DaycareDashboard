@@ -1,0 +1,20 @@
+{
+    "staff": [
+        {
+            "name": "Sam",
+            "working": true
+        },
+        {
+            "name": "Mary",
+            "working": true
+        },
+        {
+            "name": "Joe",
+            "working": false
+        },
+        {
+            "name": "Sarah",
+            "working": true
+        }
+    ]
+}
